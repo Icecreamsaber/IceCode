@@ -1,5 +1,4 @@
 import string
-import json
 
 def results_list():
 	LIST = []
